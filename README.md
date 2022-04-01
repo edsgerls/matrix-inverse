@@ -1,2 +1,2 @@
-# qr-algorithm
-Eigenvalues and eigenvectors using QR algorithm
+# Inverse of a matrix
+Inverse of a matrix using Gauss-Jordan Elimination
